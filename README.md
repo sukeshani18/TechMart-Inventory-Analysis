@@ -1,8 +1,9 @@
 # TechMart Inventory Analytics Dashboard
 
 ![Dashboard](Dashboard.png "Invntory Analysis Dashboard")
-This project analyzes inventory movement data using SQL and Power BI to monitor stock flow, demand patterns, and inventory health.
 
+## Project Overview
+This project analyzes inventory movement data using SQL and Power BI to monitor stock flow, demand patterns, and inventory health.
 
 ## Objectives
 * Track inbound and outbound stock
