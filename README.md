@@ -1,4 +1,4 @@
-# TechMart Inventory Analytics Dashboard
+# TechMart Inventory Analytics 
 
 ![Dashboard](Dashboard.png "Invntory Analysis Dashboard")
 
@@ -11,19 +11,16 @@ This project analyzes inventory movement data using SQL and Power BI to monitor 
 * Identify top-performing products and locations
 * Provide actionable insights for business decisions
 
-
 ## Tools & Technologies
 * SQL (PostgreSQL)
 * Power BI
 * Excel
 
-
 ## Key KPIs
 * Total Inbound: 66,078
 * Total Outbound: 50,955
 * Net Stock: 15,123
-* Inventory Status: Increasing 📦
-
+* Inventory Status: Increasing 
 
 ## Dashboard Features
 * Dynamic slicers (Warehouse, Product, City)
@@ -41,6 +38,14 @@ This project analyzes inventory movement data using SQL and Power BI to monitor 
 * WH_Pune handles the most shipments
 * Inventory levels are currently stable
 
+## Files
+* Dataset: [TechMart_Warehouse_Dataset.xlsx](TechMart_Warehouse_Dataset.xlsx)
+* Power BI File: [Inventory_Dashboard.pbix](Inventory_Dashboard.pbix)
+* Sql File: [Techmart_Analysis.sql](Techmart_Analysis.sql)
+
+## Dashboard Preview
+![Dashboard](Dashboard.png)
+![Dashboard](Dept-Tooltip.png)
 
 ## Project Highlights
 * End-to-end pipeline: Excel → SQL → Power BI
