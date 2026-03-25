@@ -45,7 +45,6 @@ This project analyzes inventory movement data using SQL and Power BI to monitor 
 
 ## Dashboard Preview
 ![Dashboard](Dashboard.png)
-![Dashboard](Dept-Tooltip.png)
 
 ## Project Highlights
 * End-to-end pipeline: Excel → SQL → Power BI
